@@ -8,3 +8,7 @@
 **/__pycache__/
 **/*.egg-info/
 **/*.pyc
+
+# C++
+**/.o
+test-load-gcc
