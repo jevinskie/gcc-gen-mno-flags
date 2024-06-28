@@ -12,3 +12,4 @@
 # C++
 **/.o
 test-load-gcc
+hello-world-gcc-plugin.so
